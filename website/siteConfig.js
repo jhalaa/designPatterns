@@ -12,8 +12,8 @@
 const siteConfig = {
   title: 'Design Patterns', // Title for your website.
   tagline: 'A website for Javascript design patterns',
-  url: 'https://your-docusaurus-test-site.com', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  url: 'https://jhalaa.github.io', // Your website URL
+  baseUrl: '/designPatterns/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
