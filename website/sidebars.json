@@ -1,0 +1,7 @@
+{
+  "docs": {
+    "Creational": ["Singleton","Factory","Prototype","Builder","Abstract"],
+    "Structural": ["Adapter","Bridge","Composite","Decorator","Facade","Flyweight","Proxy"],
+    "Behavioural": ["Observer","Visitor","Strategy","Template","Iterator","Interpretter"]
+  }
+}
